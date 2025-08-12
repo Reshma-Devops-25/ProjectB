@@ -1,2 +1,9 @@
 this file created in bug branch
+<<<<<<< HEAD
 this is to check conflict on futire branch
+=======
+
+
+this line is added to check conflicts on master
+
+>>>>>>> main
